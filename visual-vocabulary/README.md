@@ -17,6 +17,9 @@
 -
 -
 -
+-
+-
+-
 # Financial Times Visual Vocabulary
 
 
