@@ -20,6 +20,7 @@
 -
 -
 -
+-
 # Financial Times Visual Vocabulary
 
 
