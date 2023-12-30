@@ -1,7 +1,5 @@
 # Financial Times Visual Vocabulary
 
-- - -
-
 ## Related reading
 
 The full content of the poster, along with links to related material, including research and examples of best practice. _This is a work in progress._
